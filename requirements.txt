@@ -1,5 +1,5 @@
-Pillow
-audiotsm
-scipy
-numpy
-pytube
+audiotsm==0.1.2
+numpy==1.16.2
+pytube==9.4.0
+scipy==1.2.1
+tqdm==4.31.1
